@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
+
+body{
+    margin-top: 70px;
+    background: #333;
+    color: white;
+    font-family: 'Nunito', monospace;
+}
+h4{
+    padding: 10px;
+}
+.main-output{
+    padding: 0 10px 5px;
+}
