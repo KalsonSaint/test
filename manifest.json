@@ -1,0 +1,31 @@
+{
+    "name": "Weight Converter",
+    "short_name": "weight converter",
+    "icons": [
+      {
+        "src": "../img/icon-72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon-96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon-256.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ddd",
+    "theme_color": "#333"
+  }
+  
